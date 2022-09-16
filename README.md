@@ -1,2 +1,2 @@
 # github-desktop-tutorial
-DevOps LAB2 Github Desktop Tutorial
+Updated README.md on **develop** branch !
