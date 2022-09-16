@@ -1,3 +1,3 @@
 # github-desktop-tutorial
 Updated README.md on **develop** branch !
-I don't want any conflict ! :( | DEV-SERENO
+In case of conflict, KEEP THIS LINE | DEV-MARCHES
